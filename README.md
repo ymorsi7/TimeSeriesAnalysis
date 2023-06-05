@@ -11,10 +11,10 @@ My steps are as follows:
 The intel course resources can be found in the "IntelTimeSeries" folder, and the project is in the "Project" folder
 
 - [x] Lecture 1: Introduction to Time Series Analysis
-- [ ] Lecture 2: Stationary Time Series
-- [ ] Lecture 3: Smoothing Time Series
-- [ ] Lecture 4: AR-MA
-- [ ] Lecture 5: ARMA and ARIMA Models
-- [ ] Lecture 6: Kalman Filters
-- [ ] Lecture 7: Time Series and Signal Transformations
-- [ ] Lecture 8: Time Series through Deep Learning
+- [x] Lecture 2: Stationary Time Series
+- [x] Lecture 3: Smoothing Time Series
+- [x] Lecture 4: AR-MA
+- [x] Lecture 5: ARMA and ARIMA Models
+- [x] Lecture 6: Kalman Filters
+- [x] Lecture 7: Time Series and Signal Transformations
+- [x] Lecture 8: Time Series through Deep Learning
